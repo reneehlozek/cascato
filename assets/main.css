@@ -88,7 +88,7 @@ th,td{
 
 /* Navigation Links (Home, Registration, etc) */
 table.navigation{width:1000px;}
-td.navigation{font-size:1.67em; white-space:nowrap; width:20%; text-align:center; vertical-align:middle; padding:10px 10px 10px 10px;}
+td.navigation{font-size:1.67em; white-space:nowrap; width:20%; text-align:center; vertical-align:middle; padding:0px 20px 0px 10px;}
 
 /* Sponsor Images */
 table.sponsors{width:800px;}
